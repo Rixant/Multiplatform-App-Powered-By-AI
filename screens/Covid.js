@@ -101,7 +101,7 @@ export default function Covid(){
             
 
     async function getPrediction(url){
-                // setDisplayText("Loading Tensor Flow")
+         
                 setDisplayText("Loading ...")
 
                 const ul = await resizeImage(url,224,224)
