@@ -1,0 +1,6 @@
+module Pods_ProjectZero_ProjectZeroTests {
+  umbrella header "Pods-ProjectZero-ProjectZeroTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

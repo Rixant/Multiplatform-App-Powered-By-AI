@@ -1,0 +1,62 @@
+{
+  "name": "ProjectZero",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.12.1",
+    "@react-native-community/masked-view": "^0.1.10",
+    "@react-navigation/bottom-tabs": "^5.11.3",
+    "@react-navigation/native": "^5.9.0",
+    "@react-navigation/stack": "^5.13.0",
+    "@tensorflow-models/mobilenet": "2.0.4",
+    "@tensorflow/tfjs": "1.5.1",
+    "@tensorflow/tfjs-react-native": "0.2.1",
+    "@unimodules/react-native-adapter": "^6.1.0",
+    "babel-preset-expo": "^8.3.0",
+    "expo": "^40.0.1",
+    "expo-camera": "^10.0.0",
+    "expo-cli": "^4.3.0",
+    "expo-constants": "^10.0.1",
+    "expo-gl": "^10.1.0",
+    "expo-gl-cpp": "^10.0.0",
+    "expo-image-manipulator": "^9.0.0",
+    "expo-image-picker": "^10.0.0",
+    "global": "^4.4.0",
+    "jpeg-js": "^0.4.3",
+    "react": "16.13.1",
+    "react-native": "^0.63.4",
+    "react-native-device-info": "^8.0.5",
+    "react-native-fs": "^2.16.6",
+    "react-native-gesture-handler": "^1.9.0",
+    "react-native-image-picker": "^3.3.2",
+    "react-native-maps": "^0.27.1",
+    "react-native-maps-directions": "^1.8.0",
+    "react-native-reanimated": "^1.13.2",
+    "react-native-safe-area-context": "^3.1.9",
+    "react-native-screens": "^2.16.1",
+    "react-native-unimodules": "^0.12.0",
+    "react-native-web": "0.11.7"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/helper-module-transforms": "^7.13.0",
+    "@babel/runtime": "^7.13.10",
+    "@react-native-community/eslint-config": "^2.0.0",
+    "babel-jest": "^26.6.3",
+    "eslint": "^7.17.0",
+    "jest": "^26.6.3",
+    "metro-react-native-babel-preset": "^0.64.0",
+    "path": "^0.12.7",
+    "react-test-renderer": "16.13.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
