@@ -38,17 +38,17 @@
 		</dict>
 	</dict>
 	<key>NSCameraUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>NSMicrophoneUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>CFBundleGetInfoString</key>
-	<string></string>
+	<string/>
 	<key>LSApplicationCategoryType</key>
-	<string></string>
+	<string/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
