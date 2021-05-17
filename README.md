@@ -47,6 +47,7 @@ The following commands
 
 ```bash
 yarn install
+yarn add react-native-device-info
 cd ios
 pod install
 cd ..
